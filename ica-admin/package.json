@@ -1,0 +1,6 @@
+{
+  "name": "ica-admin",
+  "private": true,
+  "description": "Interactive Client Acquisition admin portal (XPLR Systems)",
+  "dependencies": { "@netlify/blobs": "^8.0.0" }
+}
